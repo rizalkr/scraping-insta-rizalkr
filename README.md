@@ -18,5 +18,7 @@ This script is designed to clean up files in a specified directory (`folder_path
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/rizalkr/scraping-insta-rizalkr.git
+   cd scraping-insta-rizalkr
+
+2. **Or u can use google colab to run more easly**
